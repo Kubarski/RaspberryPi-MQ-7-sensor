@@ -45,6 +45,7 @@ while True:
         k+=1
         if i==5:
             values = values/5
+            values = 5.85*2.718^(0.0182*values)-305
             i=0
             print(values)
             #muutujate lisamine andmebaasi
